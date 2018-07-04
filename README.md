@@ -5,7 +5,7 @@
 - `python2`
 
 ```
-cd esp8266/tools && python2 get.py && cd ../../
+cd arduino-esp32/tools && python2 get.py && cd ../../
 ```
 
 ## Build
