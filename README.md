@@ -1,4 +1,4 @@
-# esp32-sensor-elk
+# esp32-humidity-logger
 
 ## Prerequisites
 
